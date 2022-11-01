@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/_git/PhysX/externals/cmakemodules/ConfigureFileMT.cmake
+C:/_git/PhysX/externals/cmakemodules/GetCompilerAndPlatform.cmake
+C:/_git/PhysX/externals/cmakemodules/NvidiaBuildOptions.cmake
+C:/_git/PhysX/externals/cmakemodules/SetOutputPaths.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt
+C:/_git/PhysX/physx/snippets/compiler/cmake/SnippetRender.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/SnippetTemplate.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/SnippetUtils.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/SnippetVehicleTemplate.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/windows/CMakeLists.txt
+C:/_git/PhysX/physx/snippets/compiler/cmake/windows/SnippetRender.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/windows/SnippetTemplate.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/windows/SnippetUtils.cmake
+C:/_git/PhysX/physx/snippets/compiler/cmake/windows/SnippetVehicleTemplate.cmake
